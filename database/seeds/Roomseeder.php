@@ -23,7 +23,7 @@ class Roomseeder extends Seeder
              'type' => 'Deluxe',
              'description' => '2000 sqft, 3 king sized beds, full kitchen.',
              'price' => 25,000.00,
-             'image' => 'https://placeimg.com/640/480/arch',
+             'image' => 'https://source.unsplash.com/1800x900/?bedrooms',
 
         ], 
 
@@ -35,7 +35,7 @@ class Roomseeder extends Seeder
             'type' => 'Luxury',
             'description' => '2000 sqft, 3 king sized beds, full kitchen.',
             'price' => 50,000.00,
-            'image' => 'https://placeimg.com/640/480/arch',
+            'image' => 'https://source.unsplash.com/1800x900/?bedrooms',
 
         ],    
 
@@ -45,7 +45,7 @@ class Roomseeder extends Seeder
         'type' => 'Superior',
         'description' => '',
         'price' => 30,000.00,
-        'image' => 'https://placeimg.com/640/480/arch',
+        'image' => 'https://source.unsplash.com/1800x900/?bedrooms',
 
         ],   
    
@@ -55,7 +55,7 @@ class Roomseeder extends Seeder
         'type' => 'Luxury',
         'description' => '2000 sqft, 3 king sized beds',
         'price' => 60,000.00,
-        'image' => 'https://placeimg.com/640/480/arch',
+        'image' => 'https://source.unsplash.com/1800x900/?bedrooms',
 
        ],    
 
@@ -66,7 +66,7 @@ class Roomseeder extends Seeder
         'type' => 'Luxury',
         'description' => '2000 sqft, 1 king sized bed',
         'price' => 40,000.00,
-        'image' => 'https://placeimg.com/640/480/arch',
+        'image' => 'https://source.unsplash.com/1800x900/?bedrooms',
 
        ],    
 
@@ -78,7 +78,7 @@ class Roomseeder extends Seeder
         'type' => 'Executive Suite',
         'description' => '2000 sqft, 3 king sized ',
         'price' => 70,000.00,
-        'image' => 'https://placeimg.com/640/480/arch',
+        'image' => 'https://source.unsplash.com/1800x900/?bedrooms',
 
       ],
       
@@ -89,7 +89,7 @@ class Roomseeder extends Seeder
         'type' => 'Suite',
         'description' => '2000 sqft',
         'price' => 100,000.00,
-        'image' => 'https://placeimg.com/640/480/arch',
+        'image' => 'https://source.unsplash.com/1800x900/?bedrooms',
 
    ],   
    

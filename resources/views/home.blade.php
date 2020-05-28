@@ -22,7 +22,8 @@
       
       <h1 class="display-3">Reservation management made easy.</h1>
       
-      <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est, perferendis minus, voluptas sed maxime dignissimos aut nisi perspiciatis tempore unde qui illum, sint expedita eligendi. Assumenda inventore perspiciatis saepe dolores?</p>
+      <p class="lead">Hospitality is the relationship between a guest and a host, wherein the host receives the guest ... It is always polite to ask about religious convictions. ... and beautiful preaching; and argue with them in ways that are best and most gracious
+</p>
       
       <a href="/login" class="btn btn-success btn-lg my-2">Sign Up for Access to Thousands of accomodation</a>
     @endif              

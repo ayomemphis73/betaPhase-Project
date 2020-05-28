@@ -19,28 +19,28 @@
                     'name'=> 'Eko Hotel',
                     'location' => 'VI, LA',
                     'description' => 'International luxury hotel.',
-                    'image' => 'https://source.unsplash.com/1800x900/?rooms'
+                    'image' => 'https://source.unsplash.com/1800x900/?bedrooms'
                 ],
 
                 [
                     'name'=> 'Four Points',
                     'location' => 'Lekki, LA',
                     'description' => 'International luxury hotel.',
-                    'image' => 'https://source.unsplash.com/1800x900/?rooms'
+                    'image' => 'https://source.unsplash.com/1800x900/?bedrooms'
                 ],
 
                 [
                     'name'=> 'Raddison Blu',
                     'location' => 'Ikeja, LA',
                     'description' => 'International luxury hotel.',
-                    'image' => 'https://source.unsplash.com/1800x900/?rooms'
+                    'image' => 'https://source.unsplash.com/1800x900/?bedrooms'
                 ],
 
                 [
                     'name'=> 'Cocoon',
                     'location' => 'Illupeju, LA',
                     'description' => 'International luxury hotel.',
-                    'image' => 'https://source.unsplash.com/1800x900/?rooms'
+                    'image' => 'https://source.unsplash.com/1800x900/?bedrooms'
                 ],
 
             ];
