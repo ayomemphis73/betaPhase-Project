@@ -106,5 +106,6 @@ class ReservationController extends Controller
       return redirect('dashboard/reservations')->with('success', 'Successfully deleted your reservation!');
     }
  
+ 
     
 }
